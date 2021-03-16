@@ -1,0 +1,46 @@
+A list of links to data sources
+
+
+Crime Statistics (South Australia)
+
+- https://data.gov.au/dataset/ds-sa-860126f7-eeb5-4fbc-be44-069aa0467d11/details?q=crime%20data
+
+- https://data.sa.gov.au/data/dataset/crime-statistics
+
+
+
+
+Australian Bureau of Statistics 
+
+- https://www.abs.gov.au/statistics/people/crime-and-justice#:~:text=June%20Quarter%202020%20Recorded%20Crime%20-%20Victims,%20Australia,for%20the%20fourth%20consecutive%20year%20to%2011,775%20victims
+
+
+
+
+Crime Statistics Agency (Victoria)
+
+- https://www.crimestatistics.vic.gov.au/crime-statistics/historical-crime-data/year-ending-30-june-2017/download-data
+
+
+- https://www.crimestatistics.vic.gov.au/crime-statistics/latest-victorian-crime-data/year-ending-30-september-2020
+
+
+- https://www.crimestatistics.vic.gov.au/crime-statistics/latest-crime-data-by-area
+
+
+
+
+Covid Statistics (South Australia)
+
+- https://www.covid-19.sa.gov.au/home/dashboard
+
+
+
+
+Covid API
+
+- https://covid19-esriau.hub.arcgis.com/datasets/historical-cases-deaths-tests-by-state
+
+
+
+
