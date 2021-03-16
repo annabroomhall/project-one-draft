@@ -1,0 +1,22 @@
+Team name suggestions
+
+#COVID CRIME IMPACT
+
+#Plot 3 years of crime in South Australia
+
+#Review crime by type / area (Local Government Area?)
+
+	#Heatmaps
+	#Bargraphs
+
+#Were there any outliers in crime type or amount of crime?
+
+#Can these outliers be attributed to news events?
+
+#Did Covid affect crime rates in 2020
+	#What crimes were impacted
+	#What areas were impacted
+	#Case study on lockdown period
+	#Case study on area
+
+
