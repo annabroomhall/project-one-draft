@@ -2,11 +2,22 @@ Team name suggestions
 
 #COVID CRIME IMPACT
 
-#Data: https://data.gov.au/dataset/ds-sa-860126f7-eeb5-4fbc-be44-069aa0467d11/details?q=crime%20data
+#Crime Data: https://data.gov.au/dataset/ds-sa-860126f7-eeb5-4fbc-be44-069aa0467d11/details?q=crime%20data
+#Location Data: https://www.matthewproctor.com/australian_postcodes
+#Google API Places: https://developers.google.com/maps/documentation/places/web-service/search
+#SA police API: https://data.sa.gov.au/data/api/1/util/snippet/api_info.html?resource_id=590083cd-be2f-4a6c-871e-0ec4c717717b
+
+#Merge Location Data with Crime data to identify long/lat of each crime report
+#--OR--
+#use Google API to return long/lat based on postcode/suburb match
+
+#Categorise each suburb with areas using Location Data
 
 #Plot 3 years of crime in South Australia
+	# #crimes across each year
+	# Types of crime across each year
 
-#Review crime by type / area (Local Government Area?)
+#Review crime by type / area
 
 	#Heatmaps
 	#Bargraphs
@@ -24,17 +35,14 @@ Team name suggestions
 
 #download 2018-latest SA data
 #merge the datasets
-#clean the data
-#add in areas - regional/metro, LGAs
-#merge the area data into main dataset
 #identify long/lat for each postcode
+#clean the data
+#add in areas to cluster postcodes
 #summarise year on year
 #plot yearly trends
 #identify outliers
 #check outliers against news articles
 #use long/lat to heatmap crime per area
-#check SA police API to see if a reference number per crime report
-#API: https://data.sa.gov.au/data/api/1/util/snippet/api_info.html?resource_id=590083cd-be2f-4a6c-871e-0ec4c717717b
-
+#check SA police API to see if a reference number per crime report to check crime reports vs family crime
 
 
