@@ -1,5 +1,0 @@
-api_key = "4f0c3694"
-weather_api_key = "fda8e90df959361e32c4a36f0476b40e"
-tv_api_key = "XKtElJFZTtcmAafgw6UBbz21_qsgfVnS"
-google_api_key = "AIzaSyCv_-WJAfO9f9DHg5QGWH4qi9f-UeUr2WE"
-census_api_key = "2ce45c97bebf838ad75064248a759f86feb72064"
